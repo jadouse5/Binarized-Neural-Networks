@@ -56,4 +56,3 @@ This project utilizes the [Larq](https://docs.larq.dev/larq/) library, an open-s
 
 ## **Conclusion**
 This project provides a hands-on approach to understanding and implementing Binarized Neural Networks. The MNIST dataset serves as an excellent benchmark to demonstrate the capabilities of BNNs in handling real-world tasks efficiently.
-```
