@@ -1,6 +1,5 @@
 
 
-```markdown
 # **Binarized Neural Network (BNN) on MNIST Dataset**
 
 # ## **Author**
