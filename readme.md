@@ -3,7 +3,7 @@
 # **Binarized Neural Network (BNN) on MNIST Dataset**
 
 ## **Author**
-This project was developed by Jad Tounsi El Azzoiani, a passionate enthusiast in machine learning and artificial intelligence, with a particular interest in efficient computing and neural network optimization. I aim to explore cutting-edge AI technologies and contribute to the open-source community, sharing knowledge and innovative solutions. For more projects and contributions, you can follow me on GitHub or connect on LinkedIn.
+This project was developed by Jad Tounsi El Azzoiani, a passionate enthusiast in machine learning and artificial intelligence, with a particular interest in efficient computing and neural network optimization. I aim to explore cutting-edge AI technologies and contribute to the open-source community, sharing knowledge and innovative solutions. For more projects and contributions, you can follow me on GitHub [https://github.com/jadouse5] or connect on LinkedIn [https://www.linkedin.com/in/jad-tounsi-el-azzoiani-87499a21a/].
 
 
 ## **Introduction**
